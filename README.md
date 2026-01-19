@@ -1,2 +1,10 @@
-# calculadora_python
-Calculadora básica criada em linguagem python
+# Calculadora em Python
+
+Projeto simples de calculadora para operações básicas.
+
+## Funcionalidades
+- Soma
+- Subtração
+- Multiplicação
+- Divisão
+
